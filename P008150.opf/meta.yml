@@ -1,15 +1,16 @@
-id: opecha:P008150
+id: P008150
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD90030
   title: རྔ་བ་རྫོང་ས་གནས་ལོ་རྒྱུས།（རྒྱ་ཡིག）
-  volume:
+  author: ''
+  volumes:
     7a7252817302458c8ad297dc4fd822ef:
       image_group_id: I1PD90112
       title: Volume 1 of a ba xian zhi
       volume_number: 1
       total_pages: 800
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྔ་བ་རྫོང་ས་གནས་ལོ་རྒྱུས།（རྒྱ་ཡིག）
   author: ''
